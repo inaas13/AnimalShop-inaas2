@@ -1,0 +1,14 @@
+C:\Users\inaas.isse\source\repos\AnimalShop\obj\Debug\AnimalShop.csproj.AssemblyReference.cache
+C:\Users\inaas.isse\source\repos\AnimalShop\obj\Debug\AnimalShop.csproj.CoreCompileInputs.cache
+C:\Users\inaas.isse\source\repos\AnimalShop\bin\Debug\AnimalShop.exe.config
+C:\Users\inaas.isse\source\repos\AnimalShop\bin\Debug\AnimalShop.exe
+C:\Users\inaas.isse\source\repos\AnimalShop\bin\Debug\AnimalShop.pdb
+C:\Users\inaas.isse\source\repos\AnimalShop\obj\Debug\AnimalShop.exe
+C:\Users\inaas.isse\source\repos\AnimalShop\obj\Debug\AnimalShop.pdb
+C:\Users\inaas.isse\source\repos\AnimalShop inaas\bin\Debug\AnimalShop.exe.config
+C:\Users\inaas.isse\source\repos\AnimalShop inaas\bin\Debug\AnimalShop.exe
+C:\Users\inaas.isse\source\repos\AnimalShop inaas\bin\Debug\AnimalShop.pdb
+C:\Users\inaas.isse\source\repos\AnimalShop inaas\obj\Debug\AnimalShop.csproj.AssemblyReference.cache
+C:\Users\inaas.isse\source\repos\AnimalShop inaas\obj\Debug\AnimalShop.csproj.CoreCompileInputs.cache
+C:\Users\inaas.isse\source\repos\AnimalShop inaas\obj\Debug\AnimalShop.exe
+C:\Users\inaas.isse\source\repos\AnimalShop inaas\obj\Debug\AnimalShop.pdb
